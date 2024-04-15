@@ -15,7 +15,7 @@
 
 <h3>Scatter Plot with Regression Lines</h3>
 <pre><code>plt.scatter(df['Year'], df['CSIRO Adjusted Sea Level'])</code></pre>
-<img src="https://miro.medium.com/max/720/1*XYZ1234567.png" alt="Scatter Plot"/>
+<img src="https://raw.githubusercontent.com/sebassimon/Sea-Level-Predictor/main/sea_level_plot.png" alt="Scatter Plot"/>
 
 
 <h2>Conclusion</h2>
